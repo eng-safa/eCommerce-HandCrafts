@@ -1,0 +1,33 @@
+/*  Start Main Style    */
+
+body{
+    background-color: #0096c7;
+}
+/*  End Main Style    */
+
+/*  Start Login Form    */
+
+.login
+{
+    width: 300px;
+    margin: 100px auto;
+}
+
+.login h2
+{
+   
+}
+
+.login input
+{
+    margin-bottom: 10px ;
+}
+
+.login .form control
+{
+   background-color: ;
+}
+
+
+
+/*  End Login Form    */
